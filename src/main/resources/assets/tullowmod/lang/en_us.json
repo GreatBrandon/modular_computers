@@ -1,0 +1,9 @@
+{
+  "item.modularcomputers.sapphire": "Sapphire",
+
+  "block.modularcomputers.sapphire_block": "Block of Sapphire",
+
+  "tooltip.modularcomputers.metal_detector": "Detects iron and diamond ore underground",
+
+  "creativetab.modular_computers_tab": "Modular Computers"
+}
